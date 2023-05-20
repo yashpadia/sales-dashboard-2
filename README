@@ -1,0 +1,3 @@
+This Excel Dashboard contains excessive use of Form controls and various excel formulas, to come up with the financial statistics and analysis, from the provided raw data.
+NOTE: This dashboard refrains from using Pivot Tables, as mentioned in the problem statement.
+This dashboard also contains interactive lists, buttons and scroll bars to interact with the visuals.
